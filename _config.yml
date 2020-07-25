@@ -5,13 +5,6 @@ url: https://roshkastudios.com
 description: "A game development studio from Asuncion / Paraguay."
 keywords: "indiegame, indiedev, roshka, game dev"
 meta_author: Roshka Studios
-favicon: favicon.ico
-
-# Google webmaster tools
-google_verify:
-
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
 
 # Contact form:
 # - static : pass through formspree.io to validate email sending
