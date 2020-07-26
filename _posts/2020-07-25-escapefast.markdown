@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2017-03-15
-img: escapefast.png
+img: escapefastv2.png
 alt: image-alt
 project-date: 
 client: SPIL Games

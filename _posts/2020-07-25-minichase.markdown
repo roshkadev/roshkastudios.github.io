@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2017-03-15
-img: minichase.png
+img: minichasev2.png
 alt: image-alt
 project-date: 
 client: SPIL Games

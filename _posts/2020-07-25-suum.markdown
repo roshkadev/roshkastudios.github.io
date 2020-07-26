@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2017-03-15
-img: suum.png
+img: suumv2.png
 alt: image-alt
 project-date: 
 client: Roshka Studios
