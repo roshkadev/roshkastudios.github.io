@@ -1,47 +1,57 @@
-    <!-- Footer -->
-    <footer class="text-center">
-        <div class="footer-above">
-            <div class="container">
-                <div class="row">
-                    <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.location }}</h3>
-                        <p>
-                            {% for adress in site.address %}
-                                {{ adress.line }} <br>
-		                    {% endfor %}
-                        </p>
-                    </div>
-                    <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.social }}</h3>
-                        <ul class="list-inline">
-                            {% for network in site.social %}
-                            <li>
-                                <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
-                            </li>
-		                    {% endfor %}
-                        </ul>
-                    </div>
-                    <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.credits }}</h3>
-                        <p>{{ site.credits }}</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="footer-below">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        Copyright &copy; {{ site.footer.copyright }} 20{{ site.time | date: '%y' }}
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
+		<!-- Footer -->
+			<div id="footer-wrapper">
+				<section id="footer" class="container">
+					<div class="row">
+						<div class="8u">
+							<section>
+								
+								<header>
+									<h2>Follow us!</h2>
+								</header>
+								<ul class="social">
+									<li><a class="icon fa-instagram" href="https://instagram.com/roshkastudios"><span class="label">Instagram</span></a></li>
+									<li><a class="icon fa-facebook" href="https://facebook.com/roshkastudios"><span class="label">Facebook</span></a></li>
+									<li><a class="icon fa-twitter" href="https://twitter.com/roshkastudios"><span class="label">Twitter</span></a></li>
+								</ul>
+								<ul class="contact">
+									<li>
+										<h3>Mail</h3>
+										<p>games@roshka.com</p>
+									</li>
+									<li>
+										<h3>Find Us</h3>
+										<p>Tte Cusmanich 867 c/ Defensa Nacional. Asuncion. Paraguay</p>
+									</li>
+								</ul>
+							
+						
+							</section>
+						</div>
+						<div class="4u">
+							<section>
+								<header>
+									<h2>About us</h2>
+								</header>
+								<a href="{{ site.baseurl }}/about.html" class="image featured"><img src="{{ site.baseurl }}/assets/images/miniAbout.jpg" alt="" /></a>
+								<p>We are the videogames development division of Roshka S.A, a well known software development company from Asuncion, Paraguay</p>
+							</section>
+						</div>
+					</div>
+					<div class="row">
+						<div class="12u">
 
-    <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
-    <div class="scroll-top page-scroll visible-xs visible-sm">
-        <a class="btn btn-primary" href="#page-top">
-            <i class="fa fa-chevron-up"></i>
-        </a>
-    </div>
+							<!-- Copyright -->
+								<div id="copyright">
+									<ul class="links">
+										<li>&copy; Roshka Studios. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+										<li> Jekyll Template: <a href="http://cloudcannon.com">Cloud Cannon</a></li>
+									</ul>
+								</div>
+
+						</div>
+					</div>
+				</section>
+			</div>
+
+	</body>
+</html>
