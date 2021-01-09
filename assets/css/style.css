@@ -18,6 +18,10 @@
   display: block;
 }
 
+#footer-wrapper{
+	background-image: url("../../assets/images/bg-footer.png");
+}
+
 /*
 	Dopetrope by HTML5 UP
 	html5up.net | @n33co
@@ -350,7 +354,7 @@ left: 0;
 
 		.box
 		{
-			background: #ffffff;
+			
 		}
 
 			.box .image.featured
@@ -799,6 +803,7 @@ left: 0;
 	{
 		position: relative;
 		background: #fff;
+		background-image: url("../../assets/images/bg-content.png"); 
 	}
 
 		#main-wrapper:before
