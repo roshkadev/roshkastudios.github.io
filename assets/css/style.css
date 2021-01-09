@@ -46,6 +46,11 @@ left: 0;
   border:0;
 }
 
+#intro h2 {
+    font-size: 1.75em;
+    color: #ffe300;
+}
+
 
 /*********************************************************************************/
 /* Basic                                                                         */
@@ -805,7 +810,7 @@ left: 0;
 	#footer-wrapper
 	{
 		position: relative;
-		color: #858484;
+		color: #00c3ff;
 	}
 
 		#footer-wrapper:before
