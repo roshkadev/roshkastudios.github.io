@@ -51,6 +51,21 @@ left: 0;
     color: #ffe300;
 }
 
+.jobs li{
+	font-weight: normal;
+	font-size: 1.2em;
+	color:#5e5e5e;
+}
+
+.jobs li::before {
+	content: "•"; 
+	color: #50b;
+  	display: inline-block; 
+  	width: 1em;
+  	font-size: 1.75em;
+  	margin-left: 2em;
+  	
+}
 
 /*********************************************************************************/
 /* Basic                                                                         */
