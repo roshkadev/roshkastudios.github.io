@@ -78,6 +78,11 @@ left: 0;
 	body
 	{
 		background: #50b;
+		
+	}
+
+	p{
+		font-size: 1.1em;
 	}
 
 		body.is-loading * {
