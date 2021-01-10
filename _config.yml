@@ -5,7 +5,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
 paginate: 10
 baseurl: 
-email: 'roshkastudios@gmail.com'
+email: 'games@roshka.com'
 
 # Plugins
 plugins: 

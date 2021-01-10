@@ -330,13 +330,11 @@ left: 0;
 			{
 				position: relative;
 				text-align: center;
-				border-top: solid 1px #f0f0f0;
 				top: 1em;
 			}
 
 				header.major h2
 				{
-					background: #fff;
 					position: relative;
 					top: -0.65em;
 					display: inline;
@@ -822,10 +820,7 @@ left: 0;
 		{
 		}
 
-			#main-wrapper .major h2
-			{
-				background: #ffffff;
-			}
+			
 
 	#footer-wrapper
 	{
@@ -917,7 +912,7 @@ left: 0;
 		{
 			display: inline-block;
 			background: #2C2929;
-			background: rgba(255,255,255,0.05);
+			background: rgba(0, 81, 190, 0.05);
 			border-radius: 5px;
 			margin: 0;
 		}
