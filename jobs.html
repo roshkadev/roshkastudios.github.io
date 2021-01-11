@@ -88,8 +88,24 @@ layout: default
                         <h3>¿ESTÁS PREPARADO?</h3>
                     </header>
                     <p>
-                        Envíanos tu CV/Portfolio a <a href="mailto:play@roshka.com">play@roshka.com</a>
+                        Envíanos tu CV/Portfolio a <a href="mailto:play@roshka.com">play@roshka.com</a> o completá el siguiente formulario
                     </p>
+                    <form action="https://formspree.io/f/mwkwawlk" method="POST" enctype="multipart/form-data">
+                                    
+                                <section>
+                                    <input class="form-control" type="text" name="name" placeholder="Nombre">
+                                    <br>
+                                    <input class="form-control" type="email" name="_replyto" placeholder="E-mail">
+                                    <br>
+                                    <textarea rows="8" class="form-control mb-3" name="message" placeholder="Mensaje (datos adicionales, links a portfolio, linkedin, etc)"></textarea>
+                                    <br>
+                                    Adjuntar archivo
+                                    <br>
+                                    <input type="file" name="upload">
+                                    <br><br>
+                                    <input class="btn btn-success" type="submit" value="Send">
+                                </section>
+                            </form>
                 </section>
             </article>
 
