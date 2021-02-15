@@ -18,6 +18,8 @@ Inicio: Lunes 5 de Abril
 
 ### SOLO PARA RESIDENTES DE PARAGUAY QUE PUEDAN TRASLADARSE HASTA NUESTRAS OFICINAS UBICADAS EN TENIENTE CUSMANICH 867 C/ DEFENSA NACIONAL, ASUNCION, PARAGUAY
 
+
+
 ![walking]({{ site.baseurl }}/assets/images/blog/2021_02_15_01.jpg)
 
 ![walking]({{ site.baseurl }}/assets/images/blog/2021_02_15_02.jpg)
