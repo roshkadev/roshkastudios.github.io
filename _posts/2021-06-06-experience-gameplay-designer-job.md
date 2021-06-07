@@ -26,9 +26,6 @@ con copia a
 No te queda claro el perfil? Mirá este video en YOUTUBE
 [https://youtu.be/suhANDk1h40?t=342][2]
 
-
-![walking]({{ site.baseurl }}/assets/images/blog/2021_06_06.jpg)
-
 [0]: mailto:talentohumano@roshka.com
 [1]: mailto:play@roshka.com
 [2]: https://youtu.be/suhANDk1h40?t=342
