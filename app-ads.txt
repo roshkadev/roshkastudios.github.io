@@ -64,3 +64,4 @@ pubmatic.com, 160318, RESELLER, 5d62403b186f2ace
 stroeer.com, 17379, RESELLER
 google.com, pub-1786619416015829, DIRECT, f08c47fec0942fa0
 facebook.com, play.roshka.spiderden, RESELLER, c3e20eee3f780d68
+facebook.com, 736550030841940, RESELLER, c3e20eee3f780d68
