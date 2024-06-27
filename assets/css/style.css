@@ -669,6 +669,17 @@ left: 0;
 				ul.social li a.fa-tumblr:hover		{ background: #3b5671; }
 				ul.social li a.fa-google-plus		{ background: #da2713; }
 				ul.social li a.fa-google-plus:hover	{ background: #ea3723; }
+				ul.social li a.fa-instagram		{ background: linear-gradient(
+        45deg,
+        #f09433 0%,
+        #e6683c 25%,
+        #dc2743 50%,
+        #cc2366 75%,
+        #bc1888 100%
+      ); }
+				ul.social li a.fa-instagram:hover	{ background: #ea3723; }
+				ul.social li a.fa-discord		{ background: #820fff; }
+				ul.social li a.fa-discord:hover	{ background: #9c41ff; }
 
 		ol
 		{
@@ -701,6 +712,10 @@ left: 0;
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
+		}
+
+		.icon.brands:before {
+			font-family: 'Font Awesome 5 Brands';
 		}
 
 		.icon > .label {
