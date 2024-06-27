@@ -1,5 +1,5 @@
 ---
-title: Hole and Fill with over +18M downloads!
+title: Hole and Fill with over 18M downloads!
 featured: /assets/images/blog/2024_27_06.jpg
 layout: post
 ---
